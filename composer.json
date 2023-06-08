@@ -1,5 +1,5 @@
 {
-  "name": "splitbrain/php-cli",
+  "name": "jrb-it/php-cli",
   "description": "Easy command line scripts for PHP with opt parsing and color output. No dependencies",
   "keywords": [
     "cli",
